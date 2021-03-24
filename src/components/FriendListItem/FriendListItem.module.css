@@ -1,0 +1,17 @@
+.friendListItem {
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+  background: rgb(164, 217, 238);
+  border: 1px solid rgb(65, 176, 240);
+}
+
+.avatar {
+  padding: 8px;
+}
+
+.name {
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}

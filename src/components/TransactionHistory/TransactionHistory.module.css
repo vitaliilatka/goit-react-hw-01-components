@@ -1,0 +1,19 @@
+.transactionhistory {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20%;
+  padding: 10px;
+  background: rgb(201, 201, 187);
+  border: 1px solid black;
+}
+
+.table {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20%;
+  padding: 10px;
+  background: rgb(201, 201, 187);
+  border: 1px solid black;
+}
