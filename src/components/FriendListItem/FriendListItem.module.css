@@ -12,3 +12,21 @@
 .avatar {
   padding: 8px;
 }
+
+.status {
+  display: block;
+  width: 10px;
+  height: 10px;
+  background-color: rgb(25, 77, 87);
+  border-radius: 50%;
+}
+
+.online {
+  composes: status;
+  background-color: rgb(4, 134, 4);
+}
+
+.offline {
+  composes: status;
+  background-color: red;
+}
